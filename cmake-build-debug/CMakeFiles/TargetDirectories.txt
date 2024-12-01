@@ -1,0 +1,3 @@
+F:/Studying/Computer Science/Second year/First semester/Data Structures And Algorithms/Laboratory/Linkied list task 1/cmake-build-debug/CMakeFiles/Linkied_list_task_1.dir
+F:/Studying/Computer Science/Second year/First semester/Data Structures And Algorithms/Laboratory/Linkied list task 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Studying/Computer Science/Second year/First semester/Data Structures And Algorithms/Laboratory/Linkied list task 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
